@@ -1,0 +1,21 @@
+h1 {
+  color: #66cc33;
+  font-size: 36px;
+}
+
+p {
+  color: #2061d2;
+  border: 2px solid #66cc33;
+  font-size: 18px;
+}
+
+button {
+  height: 42px;
+  width: 76px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #66cc33;
+  color: #2061d2;
+  font-size: 18px;
+}

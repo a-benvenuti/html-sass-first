@@ -1,0 +1,20 @@
+// ------------variabili-------------
+$color-primary: #66cc33;
+$color-secondary: #2061d2;
+$font-big: 36px;
+$font-med: 18px;
+$font-small: 14px;
+// ------------/variabili-------------
+
+h1{color: $color-primary; font-size: $font-big;}
+p{color: $color-secondary; border: 2px solid $color-primary; font-size: $font-med;}
+button{
+  height: 42px;
+  width: 76px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: $color-primary;
+  color: $color-secondary;
+  font-size: $font-med;
+}
